@@ -20,3 +20,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Bilder (android, apple-logo, linux-platform, nitendo-switch, playstation-logotype, star, windows, xbox )are from Freepicks from Flaticon.com
 Picture Game_bild from https://online.maryville.edu/blog/future-of-video-games/
+
+npm run dev 
